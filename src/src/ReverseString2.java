@@ -20,10 +20,10 @@ public class ReverseString2 {
 		ReverseString2 rev = new ReverseString2();
 
 		rev.reverseIt(input);
-
 	}
 
 	public void reverseIt(String s) {
+		
 		String[] words = s.split(" ");
 
 		System.out.print("My Method : ");
