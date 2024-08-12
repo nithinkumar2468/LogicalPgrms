@@ -18,7 +18,6 @@ public class ReverseString2 {
 		System.out.println("Output: " + reversedString.toString());
 		
 		ReverseString2 rev = new ReverseString2();
-
 		rev.reverseIt(input);
 	}
 
