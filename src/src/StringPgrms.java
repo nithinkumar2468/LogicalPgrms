@@ -9,7 +9,6 @@ public class StringPgrms {
 
 	public static void main(String[] args) {
 		StringPgrms ob = new StringPgrms();
-
 		String s = "infinite computer solutions";
 
 		System.out.println("Enter your option : " + "\n" + "1: findOccurence  2: findSubString ");
