@@ -5,7 +5,7 @@ import java.util.LinkedHashMap;
 public class LongestSubStringWithoutRepeatingChar {
 
 	public void longestSubstring(String str) {
-		char[] charArray = str.toCharArray();
+		char[] charArray = str.toLowerCase().toCharArray();
 
 		String longestSubstring = null;
 

@@ -2,7 +2,7 @@ package src;
 
 public class ReverseString2 {
 	public static void main(String[] args) {
-		String input = "infinite computer solutions -- bangalore";
+		String input = "infinite computer solutions 12 bangalore";
 
 		String[] words = input.split(" ");
 
